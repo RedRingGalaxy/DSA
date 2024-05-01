@@ -1,0 +1,7 @@
+C:\Users\thiru\source\repos\RedRingGalaxy\DSA\C-Sharp\C-Sharp\obj\Debug\C-Sharp.csproj.AssemblyReference.cache
+C:\Users\thiru\source\repos\RedRingGalaxy\DSA\C-Sharp\C-Sharp\obj\Debug\C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\thiru\source\repos\RedRingGalaxy\DSA\C-Sharp\C-Sharp\bin\Debug\C-Sharp.exe.config
+C:\Users\thiru\source\repos\RedRingGalaxy\DSA\C-Sharp\C-Sharp\bin\Debug\C-Sharp.exe
+C:\Users\thiru\source\repos\RedRingGalaxy\DSA\C-Sharp\C-Sharp\bin\Debug\C-Sharp.pdb
+C:\Users\thiru\source\repos\RedRingGalaxy\DSA\C-Sharp\C-Sharp\obj\Debug\C-Sharp.exe
+C:\Users\thiru\source\repos\RedRingGalaxy\DSA\C-Sharp\C-Sharp\obj\Debug\C-Sharp.pdb

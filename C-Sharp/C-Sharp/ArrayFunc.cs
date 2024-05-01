@@ -8,7 +8,7 @@ namespace C_Sharp
 {
     static class ArrayFunc
     {
-        static void ArrBasic()
+        public static void ArrBasic()
         {
             // Single Dimentional Array
             int[] ar = new int[4];
